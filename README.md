@@ -77,7 +77,6 @@ java src.DisplayFrame
 |--------------------------|-------------|-------------|
 | ![Display](screenshots/display.png) | ![Insert](screenshots/insert.png) | ![Update](screenshots/update.png) |
 
-> 📁 Place screenshots inside a `screenshots/` folder.
 
 ---
 
